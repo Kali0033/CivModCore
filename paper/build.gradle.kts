@@ -5,7 +5,7 @@ plugins {
 }
 
 dependencies {
-	paperDevBundle("1.18.2-R0.1-SNAPSHOT")
+	paperDevBundle("1.19.4-R0.1-SNAPSHOT")
 
 	implementation("co.aikar:acf-bukkit:0.5.0-SNAPSHOT")
 	implementation("com.mojang:datafixerupper:1.0.20")
