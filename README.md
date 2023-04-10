@@ -6,8 +6,6 @@ CivModCore is derived from Humbug.
 
 ## Versions
 
-* 2.4.0 - Paper 1.19.4
-
 * 2.0.0 - Paper 1.18.1 - This version onwards requires gradle
 
 * 1.9.0 - Paper 1.17.1
@@ -73,10 +71,10 @@ Include the following in your dependency list in your plugin's POM file:
     <dependency>
         <groupId>net.civmc</groupId>
         <artifactId>CivModCore</artifactId>
-        <version>2.4.0-SNAPSHOT</version>
+        <version>2.0.0-SNAPSHOT</version>
         <scope>provided</scope>
     </dependency>
 
 For Gradle include the following line inside your dependencies code block:
 
-	implementation("net.civmc:civmodcore:2.4.0:dev-all")
+	implementation("net.civmc:civmodcore:2.0.0-SNAPSHOT:dev-all")
